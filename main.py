@@ -1,6 +1,6 @@
 #########################
 # CMPT 120 - Final Project: Colourful Zero Game
-# ########## & Gia Hue Mai
+# ########## & Hayden Mai
 # Aug 1, 2022
 # main.py file
 import cmpt120image
